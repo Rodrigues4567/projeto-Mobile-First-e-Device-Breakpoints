@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/* Versão para Laptop */
+
+body {
+    background-image: url(../imagens/back-pc.jpg);
+}
+
+#telefone { display: none;}
+#tablet { display: none;}
+#laptop { display: block;}
+#computador { display: none;}
